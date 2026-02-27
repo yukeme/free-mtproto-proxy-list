@@ -6,7 +6,7 @@ This repository contains high-speed Telegram MTProto proxies for bypassing block
 [CLICK TO CONNECT YOUR PROXY](https://t.me/llazyrin)
 
 ### ⚡️ Or you can connect directly:
-tg://proxy?server=202.148.54.247&port=8443&secret=ee469ba705e24713b0a6e138b890b00b
+tg://proxy?server=82.38.71.10&port=8443&secret=0ba2e4a61df37605307a0f879d96be55
 
 ### 📢 More Proxies & Updates:
 Join our official aggregator for more fresh links: 
